@@ -1,0 +1,35 @@
+.card-equipamento {
+     border: 1px solid #ccc;
+      padding: 16px;
+     border-radius: 10px;
+      margin-bottom: 12px;
+     background-color: #f9f9f9;
+}
+.card-imagem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-titulo {
+      margin: 0 0 8px 0;
+}
+
+.card-texto {
+       margin: 4px 0;
+}
+
+.status-operando {
+     color: #5cb85c;
+}
+
+.status-manutencao {
+      color: #f0ad4e;
+}
+
+.status-parado {
+     color: #d9534f;
+}
+
+.status-padrao {
+     color: #777777;
+}
